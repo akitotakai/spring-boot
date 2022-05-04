@@ -6,4 +6,3 @@ public class RecipeListView {
     private int materialCount;
 }
 
-// takai takai
